@@ -2,7 +2,7 @@
   "name": "lezione3",
   "private": true,
   "scripts": {
-    "build": "slidev build",
+    "build": "slidev build --base Lezione3",
     "dev": "slidev --open",
     "export": "slidev export"
   },
